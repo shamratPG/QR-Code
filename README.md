@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# QR code component 
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
@@ -25,7 +25,6 @@ This QR Code Component was a simple fun project. I used CSS variables, flexbox a
 - Solution URL: [Code Link](https://github.com/shamratPG/QR-Code)
 - Live Site URL: [Live Site](https://shamratpg.github.io/QR-Code/)
 
-## My process
 
 ### Built with
 
@@ -36,6 +35,6 @@ This QR Code Component was a simple fun project. I used CSS variables, flexbox a
 ## Author
 
 - Website - [Md. Shamrat Hossain](https://github.com/shamratPG)
-- Frontend Mentor - [@@shamratPG](https://www.frontendmentor.io/profile/shamratPG)
 - Twitter - [@shamratpg](https://twitter.com/shamratpg)
+- Frontend Mentor - [@@shamratPG](https://www.frontendmentor.io/profile/shamratPG)
 
