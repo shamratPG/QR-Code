@@ -55,7 +55,7 @@ body {
 
 .container {
     background-color: var(--white);
-    width: 300px;
+    max-width: 300px;
     border-radius: 1rem;
     padding: 1rem;
 }
