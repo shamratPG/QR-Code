@@ -36,5 +36,5 @@ This QR Code Component was a simple fun project. I used CSS variables, flexbox a
 
 - Website - [Md. Shamrat Hossain](https://github.com/shamratPG)
 - Twitter - [@shamratpg](https://twitter.com/shamratpg)
-- Frontend Mentor - [@@shamratPG](https://www.frontendmentor.io/profile/shamratPG)
+- Frontend Mentor - [@shamratPG](https://www.frontendmentor.io/profile/shamratPG)
 
